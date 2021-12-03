@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%7BReact-portfolio%7D/static/css/main.0baaea42.chunk.css",
-    "main.js": "/%7BReact-portfolio%7D/static/js/main.e14f551c.chunk.js",
-    "main.js.map": "/%7BReact-portfolio%7D/static/js/main.e14f551c.chunk.js.map",
-    "runtime-main.js": "/%7BReact-portfolio%7D/static/js/runtime-main.31323203.js",
-    "runtime-main.js.map": "/%7BReact-portfolio%7D/static/js/runtime-main.31323203.js.map",
-    "static/js/2.a66f814f.chunk.js": "/%7BReact-portfolio%7D/static/js/2.a66f814f.chunk.js",
-    "static/js/2.a66f814f.chunk.js.map": "/%7BReact-portfolio%7D/static/js/2.a66f814f.chunk.js.map",
-    "index.html": "/%7BReact-portfolio%7D/index.html",
-    "static/css/main.0baaea42.chunk.css.map": "/%7BReact-portfolio%7D/static/css/main.0baaea42.chunk.css.map",
-    "static/js/2.a66f814f.chunk.js.LICENSE.txt": "/%7BReact-portfolio%7D/static/js/2.a66f814f.chunk.js.LICENSE.txt",
-    "static/media/Resume.42fe2cc3.pdf": "/%7BReact-portfolio%7D/static/media/Resume.42fe2cc3.pdf",
-    "static/media/banner.6fd607ef.svg": "/%7BReact-portfolio%7D/static/media/banner.6fd607ef.svg",
-    "static/media/error.7257e16c.svg": "/%7BReact-portfolio%7D/static/media/error.7257e16c.svg"
+    "main.css": "/React-portfolio/static/css/main.0baaea42.chunk.css",
+    "main.js": "/React-portfolio/static/js/main.e14f551c.chunk.js",
+    "main.js.map": "/React-portfolio/static/js/main.e14f551c.chunk.js.map",
+    "runtime-main.js": "/React-portfolio/static/js/runtime-main.c75ad0f1.js",
+    "runtime-main.js.map": "/React-portfolio/static/js/runtime-main.c75ad0f1.js.map",
+    "static/js/2.a66f814f.chunk.js": "/React-portfolio/static/js/2.a66f814f.chunk.js",
+    "static/js/2.a66f814f.chunk.js.map": "/React-portfolio/static/js/2.a66f814f.chunk.js.map",
+    "index.html": "/React-portfolio/index.html",
+    "static/css/main.0baaea42.chunk.css.map": "/React-portfolio/static/css/main.0baaea42.chunk.css.map",
+    "static/js/2.a66f814f.chunk.js.LICENSE.txt": "/React-portfolio/static/js/2.a66f814f.chunk.js.LICENSE.txt",
+    "static/media/Resume.42fe2cc3.pdf": "/React-portfolio/static/media/Resume.42fe2cc3.pdf",
+    "static/media/banner.6fd607ef.svg": "/React-portfolio/static/media/banner.6fd607ef.svg",
+    "static/media/error.7257e16c.svg": "/React-portfolio/static/media/error.7257e16c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.31323203.js",
+    "static/js/runtime-main.c75ad0f1.js",
     "static/js/2.a66f814f.chunk.js",
     "static/css/main.0baaea42.chunk.css",
     "static/js/main.e14f551c.chunk.js"
