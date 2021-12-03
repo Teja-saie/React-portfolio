@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-portfolio/static/css/main.0baaea42.chunk.css",
-    "main.js": "/React-portfolio/static/js/main.4750251a.chunk.js",
-    "main.js.map": "/React-portfolio/static/js/main.4750251a.chunk.js.map",
-    "runtime-main.js": "/React-portfolio/static/js/runtime-main.c75ad0f1.js",
-    "runtime-main.js.map": "/React-portfolio/static/js/runtime-main.c75ad0f1.js.map",
-    "static/js/2.a66f814f.chunk.js": "/React-portfolio/static/js/2.a66f814f.chunk.js",
-    "static/js/2.a66f814f.chunk.js.map": "/React-portfolio/static/js/2.a66f814f.chunk.js.map",
-    "index.html": "/React-portfolio/index.html",
-    "static/css/main.0baaea42.chunk.css.map": "/React-portfolio/static/css/main.0baaea42.chunk.css.map",
-    "static/js/2.a66f814f.chunk.js.LICENSE.txt": "/React-portfolio/static/js/2.a66f814f.chunk.js.LICENSE.txt",
-    "static/media/Resume.42fe2cc3.pdf": "/React-portfolio/static/media/Resume.42fe2cc3.pdf",
-    "static/media/banner.6fd607ef.svg": "/React-portfolio/static/media/banner.6fd607ef.svg",
-    "static/media/error.7257e16c.svg": "/React-portfolio/static/media/error.7257e16c.svg"
+    "main.css": "/React-portfolio/home/static/css/main.0baaea42.chunk.css",
+    "main.js": "/React-portfolio/home/static/js/main.4750251a.chunk.js",
+    "main.js.map": "/React-portfolio/home/static/js/main.4750251a.chunk.js.map",
+    "runtime-main.js": "/React-portfolio/home/static/js/runtime-main.622d55d0.js",
+    "runtime-main.js.map": "/React-portfolio/home/static/js/runtime-main.622d55d0.js.map",
+    "static/js/2.a66f814f.chunk.js": "/React-portfolio/home/static/js/2.a66f814f.chunk.js",
+    "static/js/2.a66f814f.chunk.js.map": "/React-portfolio/home/static/js/2.a66f814f.chunk.js.map",
+    "index.html": "/React-portfolio/home/index.html",
+    "static/css/main.0baaea42.chunk.css.map": "/React-portfolio/home/static/css/main.0baaea42.chunk.css.map",
+    "static/js/2.a66f814f.chunk.js.LICENSE.txt": "/React-portfolio/home/static/js/2.a66f814f.chunk.js.LICENSE.txt",
+    "static/media/Resume.42fe2cc3.pdf": "/React-portfolio/home/static/media/Resume.42fe2cc3.pdf",
+    "static/media/banner.6fd607ef.svg": "/React-portfolio/home/static/media/banner.6fd607ef.svg",
+    "static/media/error.7257e16c.svg": "/React-portfolio/home/static/media/error.7257e16c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c75ad0f1.js",
+    "static/js/runtime-main.622d55d0.js",
     "static/js/2.a66f814f.chunk.js",
     "static/css/main.0baaea42.chunk.css",
     "static/js/main.4750251a.chunk.js"
